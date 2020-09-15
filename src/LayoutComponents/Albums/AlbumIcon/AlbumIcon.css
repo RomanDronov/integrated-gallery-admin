@@ -1,0 +1,25 @@
+.AlbumIcon{
+    border:1px solid black;
+    width:150px;
+    height: 150px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.AlbumIcon .name{
+    color:#333333;
+    padding:10px;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+.AlbumIcon .image{
+    width:35px;
+    height: 35px;
+    float:left;
+    background-size: 100%;
+}
+.AlbumIcon .preview{
+    min-width: 130%;
+    max-height: 100px;
+}
