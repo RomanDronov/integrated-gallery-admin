@@ -1,0 +1,21 @@
+.files{
+    min-width: 100px;
+    min-height: 20px;
+    margin-top: 10px;
+    max-width: 300px;
+    margin:5px auto;
+}
+.files .name{
+    display: inline-block;
+    float:left;
+    color:#333333;
+    font-weight: 600;
+}
+.files .deleteButton{
+    float:right;
+}
+.FilesList .Title{
+    font-size:1.3em;
+    color:#c0c0c2;
+    font-weight: 800;
+}
